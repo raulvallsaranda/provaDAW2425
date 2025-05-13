@@ -9,8 +9,8 @@ public class HolaMonCompartit {
 		System.out.println("Hola Món Yordan 13!");
     System.out.println("Hola Món Moha 04!");
 		System.out.println("Hola Món Raül 05!");
+		System.out.println("Hola Món Camu 06!");
 		System.out.println("Hola Món 15!");
-
 	}
 
 }
