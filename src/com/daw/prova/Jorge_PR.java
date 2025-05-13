@@ -1,10 +1,9 @@
 package com.daw.prova;
 
-public class Moha {
+public class Jorge_PR {
 
 	public static void main(String[] args) {
-		System.out.println("Hola Món Moha!");
-
+System.out.println("Hola món! JPR");
 	}
 
 }
